@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Lateef&display=swap);
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+h1,h2,h3{
+	font-family: charm;
+	font-weight: bold;
+}
+
+body{
+	font-family: lateef;
+	font-size: 22px;
+	margin: 0px;
+}
+
+a{
+	text-decoration: none;
+}
